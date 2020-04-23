@@ -1,6 +1,6 @@
 # Deeply Uncertain
 
-Code repository for the paper "Deeply Uncertain: Comparing Methods of Uncertainty Quantification in Deep Learning Algorithms", by @joaocaldeira and @bnord. The paper can be found at <a href="https://arxiv.org/abs/2004.xxxxx">arXiv:2004.xxxxx</a>.
+Code repository for the paper "Deeply Uncertain: Comparing Methods of Uncertainty Quantification in Deep Learning Algorithms", by @joaocaldeira and @bnord. The paper can be found at <a href="https://arxiv.org/abs/2004.10710">arXiv:2004.10710</a>.
 
 ## Abstract
 
