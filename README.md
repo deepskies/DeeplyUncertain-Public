@@ -19,3 +19,6 @@ To reproduce the results in the paper, run the script `run_training.sh` followed
 5. run_train.sh: run all model training to replicate the paper results
 6. run_test.sh: test all trained models to replicate the paper results
 7. make_plots.ipynb: notebook to generate plots tested and trained models
+8. models/cd.py: concrete dropout
+9. models/mlp_tf: flipout for BNN model
+
